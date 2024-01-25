@@ -20,7 +20,7 @@ Hi, I'm Paulo Mendoza, a Computer Engineering student at the Technological Insti
 
 ## Connect with Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/paulo-mendoza-game-dev/]
+- **LinkedIn:** [paulo-mendoza-game-dev](https://www.linkedin.com/in/paulo-mendoza-game-dev/)
 
 Feel free to reach out if you have any questions or want to connect!
 
